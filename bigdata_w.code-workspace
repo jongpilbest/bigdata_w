@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "facenet-pytorch",
+			"path": "facenet-pytorch"
+		}
+	],
+	"settings": {}
+}
